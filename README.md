@@ -1,4 +1,5 @@
 📊 Consumer Shopping Behavior Analysis
+
 An interactive retail analytics solution built in Microsoft Excel
 
 This project transforms raw shopping data into a professional analytical tool, providing actionable insights into customer demographics, seasonal trends, and purchasing patterns.
