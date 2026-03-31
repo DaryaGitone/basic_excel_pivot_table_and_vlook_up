@@ -18,7 +18,7 @@ _Logistics & Payments_ | Clear visualization of shipping preferences and popular
 
 **🛠 Technical Implementation:**
 
-To ensure professional-grade reporting, I utilized several advanced Excel features:FeatureApplication in ProjectData ValidationImplemented on the Item Sheet via drop-down lists to ensure 100% data integrity and prevent typos.VLOOKUPUsed to link disparate datasets, creating a unified master table for analysis.Pivot TablesMulti-dimensional aggregation of thousands of rows of customer data.
+To ensure professional-grade reporting, I utilized several advanced Excel features:FeatureApplication in ProjectData ValidationImplemented on the Item Sheet via drop-down lists to ensure 100% data integrity and prevent typos.VLOOKUPUsed to link disparate datasets, creating a unified master table for analysis. Pivot Tables Multi-dimensional aggregation of thousands of rows of customer data.
 
 **💡 Business Impact**
 
