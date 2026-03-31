@@ -1,7 +1,3 @@
-Понял, сделаем оформление более «дорогим» и структурированным. На GitHub лучше всего работает сочетание иконок, жирного шрифта и четких таблиц — это сразу выделяет проект среди других.
-
-Вот обновленный вариант для твоего README.md. Скопируй код ниже полностью:
-
 📊 Consumer Shopping Behavior Analysis
 An interactive retail analytics solution built in Microsoft Excel
 
