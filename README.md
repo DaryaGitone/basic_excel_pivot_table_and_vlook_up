@@ -22,6 +22,7 @@ To ensure professional-grade reporting, I utilized several advanced Excel featur
 
 **💡 Business Impact**
 
+
 This tool enables stakeholders to answer critical questions:
 
 **Inventory:** "Which items should we stock more of for the Winter season?"
@@ -29,6 +30,8 @@ This tool enables stakeholders to answer critical questions:
 **Checkout UX:** "What are the top payment methods we must support?"
 
 **Targeting:** "Which gender has the highest average purchase rating?"
+
+
 
 
 **📸 Preview**
