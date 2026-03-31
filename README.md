@@ -5,6 +5,7 @@ An interactive retail analytics solution built in Microsoft Excel
 This project transforms raw shopping data into a professional analytical tool, providing actionable insights into customer demographics, seasonal trends, and purchasing patterns.
 
 **🎯 Project Overview**
+
 This dashboard was developed to help retail managers understand their audience and optimize inventory based on real-world data. It bridges the gap between raw data entry and strategic decision-making.
 
 **🚀 Key Features**
@@ -16,9 +17,11 @@ _Seasonal Intelligence_ | Identification of top-performing categories for each s
 _Logistics & Payments_ | Clear visualization of shipping preferences and popular payment gateways.
 
 **🛠 Technical Implementation:**
+
 To ensure professional-grade reporting, I utilized several advanced Excel features:FeatureApplication in ProjectData ValidationImplemented on the Item Sheet via drop-down lists to ensure 100% data integrity and prevent typos.VLOOKUPUsed to link disparate datasets, creating a unified master table for analysis.Pivot TablesMulti-dimensional aggregation of thousands of rows of customer data.
 
 **💡 Business Impact**
+
 This tool enables stakeholders to answer critical questions:
 
 **Inventory:** "Which items should we stock more of for the Winter season?"
