@@ -8,6 +8,7 @@ This project transforms raw shopping data into a professional analytical tool, p
 This dashboard was developed to help retail managers understand their audience and optimize inventory based on real-world data. It bridges the gap between raw data entry and strategic decision-making.
 
 **🚀 Key Features**
+
 _Customer Segmentation_ | Deep dive into gender-based and age-group purchasing power.
 
 _Seasonal Intelligence_ | Identification of top-performing categories for each season (Summer, Fall, Winter, Spring).
